@@ -10,10 +10,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="h-full">
-        <section className="sm:py-24 lg:py-32 py-12">
-          <div className="mx-auto max-w-2xl lg:max-w-7xl sm:px-6 px-4">
+        <section className="py-12 sm:py-24 lg:py-32">
+          <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl">
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam, nam.
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam,
+              nam.
             </p>
           </div>
         </section>
